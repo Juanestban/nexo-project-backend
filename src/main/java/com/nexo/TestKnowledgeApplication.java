@@ -1,4 +1,4 @@
-package com.nexo.test;
+package com.nexo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
